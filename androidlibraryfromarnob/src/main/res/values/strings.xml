@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidLibraryFromArnob</string>
+    <string name="toast_will_show_here_form_library">Toast will show here form library</string>
+</resources>
