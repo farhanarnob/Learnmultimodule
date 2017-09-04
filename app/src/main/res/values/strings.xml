@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Learn multi module</string>
+    <string name="title_activity_settings">Setting</string>
+    <string name="setting">Setting</string>
+    <string name="pref_location_label">Location</string>
+    <string name="pref_location_key" translatable="false">location</string>
+    <string name="pref_location_default" translatable="false">33333</string>
 </resources>
